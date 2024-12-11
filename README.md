@@ -22,4 +22,4 @@ This repository contains a pipeline for capturing network packets, extracting fe
 
 ## Different Data Options
 
--**Can select different working nodes to get different data sets**
+Can select different working nodes to get different data sets
