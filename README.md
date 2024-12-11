@@ -20,8 +20,6 @@ All code for data collection, preprocessing, training, and explanation is contai
 - Trains the neural network model.
 - Uses Trustee to explain the trained model.
 
-The report instructions indicate that your GitHub repository should have a README guiding how to reproduce results. Here’s how to do that using `data_collection.ipynb`.
-
 ## Setup Instructions
 
 ### Prerequisites
@@ -101,7 +99,7 @@ sudo apt-get install speedtest
 
 ## Reproducing Results from the Report
 
-To reproduce the results mentioned in your project report:
+To reproduce the results:
 1. **Collect Sufficient Data**: Run the data collection cells multiple times to gather enough samples. Adjust conditions (like waiting between runs) as indicated in the report.
 2. **Preprocess and Scale Data**: Execute preprocessing cells exactly as described in the notebook.
 3. **Train the Model**: Run the training cell multiple epochs (e.g., 1000 epochs) or tweak hyperparameters as the report states.
